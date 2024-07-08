@@ -69,7 +69,7 @@ function App() {
     settodos(newTodos);
     saveToLS()
   }
-  const toggleFinished = (e) => { 
+  const toggleFinished = (e) => {  
 
     setshowFinished(!showFinished)
    }
