@@ -75,7 +75,7 @@ function App() {
    }
   
 
-  return (
+  return ( 
     <>
       <Navbar />
       <div className="container mx-auto my-4 rounded-md p-5 bg-slate-900 border shadow-md min-h-[80vh]">
